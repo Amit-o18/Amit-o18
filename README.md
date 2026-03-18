@@ -97,8 +97,7 @@ I’m currently focused on strengthening my foundations in C/C++ and improving a
   - Writing readable and optimized solutions
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Amit_Kumar_18
-?ext=stats&theme=dark" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/Amit_Kumar_18?ext=stats&theme=dark" width="60%" />
 </p>
 
 🔗 **LeetCode Profile:**  
@@ -110,15 +109,14 @@ https://leetcode.com/u/abhi-saurav-saroya/
 
 ## GitHub Statistics
 
-<p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&show_icons=true"></a>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-o18&show_icons=true&theme=dark" />
 </p>
 
 <p align = 'center'>
 <a href="https://github.com/Amit-o18?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amit-o18&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Amit-o18's github-readme-stats"/></a>
 <a href="https://github.com/Amit-o18?tab=repositories#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=Amit-o18&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Amit-o18's github-readme-streak-stats"/></a>
 </p>
-
 
 <p align="center">
     <a href="https://wakatime.com/@Amit-o18">
