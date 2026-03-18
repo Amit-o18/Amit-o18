@@ -113,9 +113,22 @@ https://leetcode.com/u/abhi-saurav-saroya/
   <img src="https://github-readme-stats.vercel.app/api?username=Amit-o18&show_icons=true&theme=dark" />
 </p>
 
-<p align = 'center'>
-<a href="https://github.com/Amit-o18?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amit-o18&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Amit-o18's github-readme-stats"/></a>
-<a href="https://github.com/Amit-o18?tab=repositories#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=Amit-o18&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Amit-o18's github-readme-streak-stats"/></a>
+<p align="center">
+  <a href="https://github.com/Amit-o18">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amit-o18&theme=gotham&show_icons=true&count_private=true&hide_border=true&v=1" width="48%" />
+  </a>
+  <a href="https://github.com/Amit-o18">
+    <img src="https://streak-stats.demolab.com?user=Amit-o18&theme=gotham&hide_border=true&v=1" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AAmit-o18+is%3Aclosed">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amit-o18&theme=gotham&utcOffset=5.5&v=1" width="31%" />
+  </a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3AAmit-o18+is%3Aclosed">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-o18&theme=gotham&v=1" width="64%" />
+  </a>
 </p>
 
 <p align="center">
