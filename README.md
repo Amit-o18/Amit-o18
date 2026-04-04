@@ -101,7 +101,7 @@ I’m currently focused on strengthening my foundations in C/C++ and improving a
 </p>
 
 🔗 **LeetCode Profile:**  
-https://leetcode.com/u/abhi-saurav-saroya/
+https://leetcode.com/u/Amit_Kumar_18/
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
