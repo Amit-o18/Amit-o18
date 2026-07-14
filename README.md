@@ -1,260 +1,175 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amit%20Kumar%20&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Computer%20Science&descAlignY=52&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amit%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Computer%20Science%20(AI%20%26%20ML)&descAlignY=52&descSize=18&descColor=ffffff" />
 </div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+# 👋 Hi, I'm Amit Kumar
+
 ## About Me
 
-- 🎓 **Second-year Undergraduate in Computer Science**
-- 💻 Strong focus on **core programming fundamentals**
-- 🧠 Actively working on **Data Structures & Algorithms**
-- 📌 Regularly practicing on **LeetCode** to build problem-solving depth
-- 🔍 Interested in writing **clean, efficient, and correct code**
-- 📍 Based in **India**
+- 🎓 Third-year Undergraduate in Computer Science (AI & ML)
+- 💻 Learning Data Structures & Algorithms using C++
+- 📊 Exploring Data Science with Python
+- 🚀 Building projects to strengthen practical skills
+- 🧠 Passionate about Problem Solving and Software Development
+- 🇮🇳 Based in India
 
-I’m currently focused on strengthening my foundations in C/C++ and improving algorithmic thinking before moving into larger systems or frameworks.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 ## Tech Stack
 
 <div align="center">
 
 ### Languages
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/>
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
-        <br>Python
-      </td>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python" />
+</p>
 
 ### Tools & Platforms
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="65" height="65" alt="GitHub"/>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
-        <br>Jupyter Notebook
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-        width="65" height="65" alt="Google Colab"/>
-        <br>Google Colab
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
-        width="65" height="65" alt="PyCharm"/>
-        <br>PyCharm
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
+</p>
+
+### Data Science
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,plotly,streamlit"/>
+</p>
 
 </div>
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## Problem Solving & DSA
-
-- Practicing **Data Structures & Algorithms** consistently
-- Solving problems on **LeetCode**
-- Focused on:
-  - Time & space complexity
-  - Edge-case handling
-  - Writing readable and optimized solutions
+## 💻 Problem Solving & DSA
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Amit_Kumar_18?ext=stats&theme=dark" width="60%" />
+<img src="https://leetcard.jacoblin.cool/Amit_Kumar_18?ext=stats&theme=dark" width="60%" />
 </p>
 
-🔗 **LeetCode Profile:**  
+🔗 **LeetCode Profile**
+
 https://leetcode.com/u/Amit_Kumar_18/
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## GitHub Statistics
+## 📈 GitHub Statistics
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-o18&show_icons=true&theme=dark" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amit-018&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amit-o18">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amit-o18&theme=gotham&show_icons=true&count_private=true&hide_border=true&v=1" width="48%" />
-  </a>
-  <a href="https://github.com/Amit-o18">
-    <img src="https://streak-stats.demolab.com?user=Amit-o18&theme=gotham&hide_border=true&v=1" width="48%" />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-018&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-018&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AAmit-o18+is%3Aclosed">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amit-o18&theme=gotham&utcOffset=5.5&v=1" width="31%" />
-  </a>
-  <a href="https://github.com/issues?q=is%3Aissue+author%3AAmit-o18+is%3Aclosed">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-o18&theme=gotham&v=1" width="64%" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-018&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@Amit-o18">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-o18&cache_seconds=1800&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20in%20all%20Repo" width="95%" alt="activity graph">
-    </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+## 🚀 Featured Projects
 
+- 🔐 **VaultX** – Secure Password Manager in C++
+- 📊 **India Weather Data Analysis** – Data Science Dashboard
+- 🌿 **AyurSutra** – Health Hackathon Project
+- 📖 **PhoneBook-CPP** – Console-based Phonebook using OOP
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAmit-o18+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amit-o18&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@Amit-o18's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAmit-o18+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-o18&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@Amit-o18's profile-details"/></a>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amit-o18&layout=compact&theme=dark" width="48%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
-## Featured Projects
-
-> These are **prototype-level projects**, built to practice logic, structure, and real-world problem solving.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☎️ PhoneBook  
-**Console Contact Management System**
-
-A complete contact manager implemented using **object-oriented and generic programming** principles.
-
-- Add, update, delete, and search contacts  
-- Sorted contact storage  
-- Persistent file-based backup  
-- Clean modular and scalable design  
-
-**Tech:** `C++` `OOP` `STL` `File Handling`
-
-🔗 **Repository:**  
-https://github.com/Amit-o18/PhoneBook
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 EduGenie  
-**AI-Assisted Learning Tool**
-
-A Flask-based web application that transforms raw text into structured learning material.
-
-- Accepts text input or uploaded files  
-- Generates summaries, key points, quizzes, and explanations  
-- Designed for fast prototyping and usability  
-- Focus on simplifying learning using AI  
-
-**Tech:** `Python` `Flask` `Generative AI`
-
-🔗 **Repository:**  
-https://github.com/Amit-o18/EduGenie
-
-</td>
-</tr>
-</table>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## Current Focus
+## 🧠 Current Focus
 
 ```cpp
-class Amit {
-public:
-    string focus = "Data Structures & Algorithms";
-    vector<string> languages = {"C", "C++", "Python"};
-    string approach = "Learn fundamentals first, scale later";
+#include <iostream>
+#include <vector>
+using namespace std;
 
-    void mindset() {
-        cout << "Consistency > Motivation" << endl;
-        cout << "Basics First" << endl;
+class Amit
+{
+public:
+
+    string learning = "Data Science & DSA";
+
+    vector<string> languages =
+    {
+        "C",
+        "C++",
+        "Python"
+    };
+
+    vector<string> goals =
+    {
+        "Solve LeetCode Problems",
+        "Build Data Science Projects",
+        "Strengthen Core CS Fundamentals"
+    };
+
+    void mindset()
+    {
+        cout << "Learn -> Practice -> Build -> Repeat";
     }
 };
 
-int main() {
+int main()
+{
     Amit me;
     me.mindset();
-    return 0;
 }
 ```
 
-## 🌐 Connect With Me
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-83595a362/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amitkumar705911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/Amit_Kumar_18/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/Amit-o18">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://github.com/Amit-018">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Amit_Kumar_18/">
+<img src="https://cdn.simpleicons.org/leetcode/F89F1B" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amit-kumar-83595a362/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:amitkumar705911@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amit-o18">
-  <img src="https://komarev.com/ghpvc/?username=Amit-o18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Amit-018&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <i>Correctness first. Optimization follows..</i>
+<i>Learn continuously. Build consistently. Improve every day.</i>
 </p>
